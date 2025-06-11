@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class Database {
   static final String DB_URL = "jdbc:mysql://localhost:3306/bank_app";
   static final String DB_USER = "root";
-  static final String DB_PASS = "nathan0308";
+  static final String DB_PASS = "";
 
   private Connection conn;
 
