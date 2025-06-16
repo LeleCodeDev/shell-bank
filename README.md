@@ -57,7 +57,7 @@ CREATE TABLE accounts (
 
 ```bash
 javac -cp .:lib/mysql-connector-j-9.1.0.jar App.java Database.java
-java -cp .:lib/mysql-connector-j-9ysql-connector-j-9.1.0.jar App
+java -cp .:lib/mysql-connector-j-9.1.0.jar App
 ```
 
 _(Use `;` instead of `:` on Windows.)_
